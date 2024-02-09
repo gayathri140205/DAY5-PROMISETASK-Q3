@@ -1,0 +1,10 @@
+
+.text-white{
+    background-image: linear-gradient(to left,rgba(6, 56, 64, 0.674),rgb(25, 179, 203)); 
+}
+.btn{
+    background-image: linear-gradient(to left,rgb(90, 156, 181),rgb(34, 113, 152));  
+}
+.card{
+    background-image: linear-gradient(to left,rgb(17, 140, 162),rgb(59, 161, 163));  
+}
